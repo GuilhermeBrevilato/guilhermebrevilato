@@ -2,7 +2,7 @@
 
 **`Analytics Engineering`**
 
-Me chamo Guilherme Brevilato, tenho 30 anos e sou natural de São Paulo. Sou formado em Engenharia Mecânica e atualmente curso Ciência de Dados na Universidade Presbiteriana Mackenzie. Também concluí a certificação em Análise Avançada de Dados pelo Google Career Certificates.
+Me chamo Guilherme Brevilato, sou formado em Engenharia Mecânica e atualmente curso Ciência de Dados na Universidade Presbiteriana Mackenzie. Também concluí a certificação em Análise Avançada de Dados pelo Google Career Certificates.
 
 Minha trajetória profissional inclui experiência na gestão de ativos de manutenção hospitalar e na implementação de análise de dados para otimização de indicadores operacionais. Tenho grande interesse em ciência de dados aplicada e analytics engineering.
 

@@ -4,10 +4,9 @@
 
 Sou Guilherme Brevilato, formado em Engenharia Mecânica e atualmente graduando em Ciência de Dados pela Universidade Presbiteriana Mackenzie. Concluí a certificação em Análise Avançada de Dados pelo Google Career Certificates.
 
-Possuo experiência na gestão de ativos de manutenção hospitalar e na aplicação de análises de dados para otimizar indicadores operacionais no terceiro setor. Tenho forte interesse em ciência de dados aplicada e analytics engineering.
+Possuo experiência na gestão de ativos de manutenção hospitalar e na aplicação de análises de dados para otimizar indicadores operacionais no terceiro setor. Atualmente atuo no Banco ABC Brasil, na área de Gestão de Telemetria e Performance Operacional, desenvolvendo soluções em ciência de dados aplicada e analytics engineering.
 
 Neste espaço, compartilho insights sobre tecnologia, minha rotina de aprendizado e os desafios que venho explorando ao longo da minha trajetória profissional.
-
 
 
 
